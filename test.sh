@@ -1,3 +1,3 @@
-1st coment
-2nd coment
-3rd coment
+1st comment
+2nd comment
+3rd comment
