@@ -1,0 +1,5 @@
+#to ignor files
+*.pyc
+
+#to ignor files in directory
+var/cache/
